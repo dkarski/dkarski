@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel Karski - Front-end Engineer 👋
 
-Front-end Engineer with 6 years of experience, specializing in React, Electron, and Angular.
+Front-end Engineer with 9 years of experience, specializing in React, Electron, and Angular.
 
 In recent years, I have focused on maintaining application stability, ensuring smooth operations, quickly resolving issues, and managing efficient release processes.
 
